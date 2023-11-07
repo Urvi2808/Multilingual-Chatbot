@@ -1,1 +1,4 @@
 # Multilingual-Chatbot
+The proposed methodology is regarding the new technology that is upcoming as the world is becoming technically developed. A chatbot is a system that is user-friendly and connects to the user in a human-like way. Chatbots are of multiple categories and are again sub-categorized, the system proposed by us is built up using the conversation category of a chatbot. Self-learning bots are one of the sub-categorized systems which we have proposed. Self-learning bots are very beneficial and easy to use. Deep learning is the path to make this kind of bots. We had implemented the bag-of-words algorithm with reference to Machine Learning. This algorithm examines by collecting data and designs the vocabulary, manufacturing document vector,  then storing words. This algorithm also extracts features that are further used to train the model.
+
+![image](https://github.com/Urvi2808/Multilingual-Chatbot/assets/68182229/f4d4fa65-fb0f-48c1-b5b4-1b5a88995d03)
